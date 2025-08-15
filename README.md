@@ -248,11 +248,15 @@ AI: Metinsel yanıtın yanında audio dosyası da oluşturulur
 
 Bu proje açık kaynak olarak geliştirilmiştir. Detaylar için LICENSE dosyasına bakın.
 
+# bert_train_predict_data Klasörü Hakkında
+
+`bert_train_predict_data` klasörü, BERT tabanlı modelin eğitimi, veri hazırlığı ve tahmin (predict) işlemlerine dair script ve dosyaları içerir. Buradaki içerikler, modelin geliştirilmesi ve test edilmesi amacıyla kullanılmıştır. Projenin ana çalışma akışı ve chatbot uygulamasının çalıştırılması için bu klasöre ihtiyaç yoktur. Sadece model geliştirme ve analiz süreçleriyle ilgilenenler için ek bilgi sağlar.
+
 # İletişim
 
 Proje ile ilgili sorularınız için GitHub Issues kullanabilirsiniz.
 
 # Teşekkürler
 
-Bu proje, modern AI teknolojilerini kullanarak müşteri hizmetleri deneyimini geliştirmeyi amaçlamaktadır. Katkıda bulunan herkese teşekkürler.
+Bu proje, modern AI teknolojilerini kullanarak müşteri hizmetleri deneyimini geliştirmeyi amaçlamaktadır. Değerli mentörlerimiz Hakan Kendirci, Merve Ayyüce Kızrak, Oğuzhan Yenen ve Gökhan Üstünkar ve bilişim vadisi ekibi başta olmak üzere katkıda bulunan herkese teşekkürler.
 

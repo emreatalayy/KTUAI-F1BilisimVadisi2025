@@ -1,0 +1,1125 @@
+id,text,category,topic,emotion,urgency
+1,modemim bağlantı kuramıyor sürekli kesiliyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+2,faturamı nasıl ödeyebilirim,kategori_belirtilmemis,fatura_odeme,notr,orta
+3,televizyon kanallarım çekmiyor ekranda karlanma var,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+4,şirketimiz için yeni hat almak istiyorum bilgi verir misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+5,telefonum çalındı lütfen acil hattı kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+6,internet paketimi yükseltmek istiyorum daha hızlı olsun,sabit_internet,paket_degisikligi,notr,orta
+7,tv paketimi iptal etmek istiyorum paramı geri alabilir miyim,tv_hizmetleri,iptal_iade,memnun_degil,orta
+8,modemim arızalandı hiç internet yok iş görüşmelerim var acilen,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+9,faturamda anlamadığım bir ücretlendirme var konuşmadığım numaralar var,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+10,firma adımız değişti faturaları yeni adımıza kesebilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+11,evde internet hızı çok düşük sürekli kopuyor artık dayanamıyorum,sabit_internet,teknik_destek,memnun_degil,yuksek
+12,yeni aldığım telefonuma sim kart takamıyorum yardımcı olabilir misiniz,mobil_hizmetler,cihaz_islemleri,notr,orta
+13,güncel kampanyalarınız hakkında bilgi almak istiyorum,kategori_belirtilmemis,bilgi_isteme,notr,dusuk
+14,telefonumun ekranı kırıldı garanti kapsamında değiştirebilir miyim,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+15,tv kutum çalışmıyor siyah ekran veriyor yayın yok,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+16,internet kesilmeden çalıştığı için çok teşekkür ederim,sabit_internet,teknik_destek,memnun,dusuk
+17,fatura ödememi geciktirdim ceza uygulanacak mı,kategori_belirtilmemis,fatura_odeme,notr,orta
+18,kurumsal hatlarımızı birleştirmek istiyoruz tek fatura olsun,kurumsal_hizmetler,paket_degisikligi,notr,orta
+19,tv yayınım sürekli donuyor kasıyor izleyemiyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+20,cep telefonumu çaldırdım hattımı acilen dondurun,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+21,internet hızım yavaşladı sözleşmede belirtilen hızın çok altında,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+22,faturamı ödedim ama sistemde görünmüyor ne yapmalıyım,kategori_belirtilmemis,fatura_odeme,notr,orta
+23,müşteri temsilciniz çok yardımcı oldu teşekkür ederim,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+24,modem kurulumunu nasıl yapacağım anlatır mısınız,sabit_internet,teknik_destek,notr,orta
+25,kredi kartımla ödeme yapamıyorum sistem hata veriyor,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+26,şirketimiz için internet paketi önerileriniz neler,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+27,telefonumdan hat kopyalanmış acil yardım edin dolandırıcılık var,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+28,internette sürekli kopma sorunları yaşıyorum çok sinir bozucu,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+29,ev adresimi değiştirmek istiyorum yeni adrese taşınacağım,sabit_internet,bilgi_isteme,notr,dusuk
+30,televizyon kanallarım gitmiş yardım edin film izleyecektik,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+31,hizmetinizden çok memnunum teşekkürler,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+32,firma hatlarımız için indirim yapabilir misiniz toplu hat almayı düşünüyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+33,internet modemim arızalandı değiştirebilir miyiz yenisiyle,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+34,telefonumdaki arızayı giderdiğiniz için teşekkür ederim çok memnun kaldım,mobil_hizmetler,cihaz_islemleri,memnun,dusuk
+35,yeni tv paketi almak istiyorum en güncel paketler neler,tv_hizmetleri,paket_degisikligi,notr,dusuk
+36,şirket adresimiz değişti internet bağlantımızı taşımak istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+37,telefonum suya düştü ne yapmalıyım açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+38,internet paketimi yükselttiğiniz için teşekkürler hız artışını fark ettim,sabit_internet,paket_degisikligi,memnun,dusuk
+39,faturam neden bu kadar yüksek geldi geçen aydan çok fazla,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+40,şirketimize özel internet tarifeleri nelerdir detaylı bilgi alabilir miyim,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+41,internet kesilmesi ne zaman düzelecek çalışamıyorum bu şekilde,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+42,tarifemi değiştirdim ama daha kötü oldu eski tarifeme geri dönmek istiyorum,mobil_hizmetler,paket_degisikligi,memnun_degil,orta
+43,tv kurulumunu yapamıyorum bağlantı sorunları var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+44,çağrı merkezinizdeki personel çok ilgiliydi teşekkür ederim,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+45,her gün internet kesiliyor çözüm bulun artık,sabit_internet,sikayet,memnun_degil,yuksek
+46,telefonumun şarjı çok hızlı bitiyor garanti kapsar mı,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+47,tv kumandası çalışmıyor tuşlar basmıyor değiştirebilir miyiz,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+48,kurumsal paketimizde değişiklik yapmak istiyoruz daha ekonomik olsun,kurumsal_hizmetler,paket_degisikligi,notr,orta
+49,internet bağlantım çok iyi teşekkürler hızından çok memnunum,sabit_internet,teknik_destek,memnun,dusuk
+50,telefonuma gelen reklam mesajlarını nasıl engelleyebilirim,mobil_hizmetler,teknik_destek,notr,dusuk
+51,tv de bazı kanallar gitmiş yardımcı olur musunuz,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+52,firma internet hızımızı artırabilir misiniz çalışanlar şikayet ediyor,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+53,internet modemim sürekli resetleniyor kendiliğinden kapanıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+54,telefon hattımı başka operatöre taşımak istiyorum memnun değilim artık,mobil_hizmetler,iptal_iade,memnun_degil,orta
+55,tv kutusunu nereye iade edebilirim sözleşmemi iptal ettirdim,tv_hizmetleri,iptal_iade,notr,dusuk
+56,şirketimiz için toplu hat almak istiyoruz fiyat teklifi alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+57,modemim hiç çalışmıyor acil yardım edin evden çalışıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+58,cep telefonumu kaybettim şimdi ne yapmalıyım hattımı kötüye kullanabilirler,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+59,tv kurulumu için teknisyen ne zaman gelecek evde beklemem gerekiyor,tv_hizmetleri,teknik_destek,notr,orta
+60,şirket hatlarımız için indirim istiyoruz çok sayıda hat kullanıyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+61,internet paketim neden yavaşladı sözleşmede belirtilen hızın altında,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+62,telefonumda internet paketi kalmamış ek paket satın almak istiyorum,mobil_hizmetler,paket_degisikligi,memnun_degil,orta
+63,tv yayın kalitesi çok düşük ücretini boşuna ödüyorum,tv_hizmetleri,sikayet,memnun_degil,orta
+64,kurumsal müşteri olarak daha iyi hizmet bekliyoruz maalesef hayal kırıklığı,kurumsal_hizmetler,sikayet,memnun_degil,orta
+65,internet bağlantımı iptal etmek istiyorum taşınıyorum başka şehre,sabit_internet,iptal_iade,notr,orta
+66,hat taşıma işlemim neden bu kadar uzun sürüyor hala sonuçlanmadı,mobil_hizmetler,bilgi_isteme,memnun_degil,orta
+67,tv paketimi yenilemek istiyorum güncel fiyatlar nedir,tv_hizmetleri,paket_degisikligi,notr,dusuk
+68,şirketimize özel kampanya var mı internet ve telefon için,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+69,internetim kesildi acil toplantım var çok önemli bir iş görüşmesi,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+70,yeni telefon almak istiyorum taksit seçenekleri neler acaba,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+71,tv kanallarından bazıları donuyor ses gidiyor görüntü kalıyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+72,kurumsal hatlarımızın faturası çok yüksek gelmiş kontrol eder misiniz,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+73,evde interneti kendim kurabilir miyim modem geldi ama bağlayamadım,sabit_internet,teknik_destek,notr,orta
+74,telefon hattımı geçici olarak dondurmak istiyorum yurt dışına çıkacağım,mobil_hizmetler,bilgi_isteme,notr,dusuk
+75,tv yayını kesintisiz olduğu için teşekkürler çok memnun kaldım,tv_hizmetleri,teknik_destek,memnun,dusuk
+76,şirketimiz için fiber internet bağlatmak istiyoruz mümkün mü,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+77,modem ışıkları yanıp sönüyor internet yok hiçbir cihaz bağlanamıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+78,telefonumdan arama yapamıyorum yardım edin acil aramam gerekiyor,mobil_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+79,tv kumandamı kaybettim yenisini nasıl alabilirim,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+80,iş yerimiz için yeni hatlar açtırdık teşekkürler her şey çok hızlı oldu,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+81,internet modemim arızalandı yardım edin çalışmıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+82,telefonum çalışmıyor hiçbir şekilde açılmıyor servise göndermem gerekli mi,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+83,tv kutum açılmıyor siyah ekran var yardım edin,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+84,şirketimizin internet hızını yükseltmek istiyoruz ne yapmamız gerekiyor,kurumsal_hizmetler,paket_degisikligi,notr,orta
+85,modem wifi şifresini unuttum nasıl öğrenebilirim,sabit_internet,teknik_destek,memnun_degil,orta
+86,faturamı kredi kartıyla ödemek istiyorum nasıl yapabilirim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+87,tv paketini yükseltmek istiyorum daha fazla kanal olsun,tv_hizmetleri,paket_degisikligi,notr,dusuk
+88,şirketimiz için indirimli paketler var mı uzun süredir müşteriniziz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+89,internetimi taşımak istiyorum yeni adresime aynı paket devam etsin,sabit_internet,bilgi_isteme,notr,dusuk
+90,telefonumun ekranı kırıldı ne yapmalıyım garanti kapsamında mı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+91,tv de bazı kanallar çalışmıyor yardım edin sadece karıncalı görüntü var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+92,firmamız için yeni hat başvurusu yapmak istiyoruz nasıl ilerlemeliyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+93,internet çok yavaş ödediğim paranın karşılığını alamıyorum hiç memnun değilim,sabit_internet,sikayet,memnun_degil,yuksek
+94,hattımı kapatmak istiyorum nasıl yapabilirim artık kullanmıyorum,mobil_hizmetler,iptal_iade,notr,orta
+95,tv paketimi iptal etmek istiyorum sözleşme sürem doldu,tv_hizmetleri,iptal_iade,notr,dusuk
+96,şirketimiz adına kayıtlı hatlar hangileri liste alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+97,modem ışıkları yanmıyor internet yok acil çözüm istiyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+98,telefonumun şarjı çabuk bitiyor garanti kapsamında mı acaba,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+99,tv kanalları neden bu kadar az rakiplerinizde daha fazla var,tv_hizmetleri,sikayet,memnun_degil,orta
+100,şirketimize ek data paketi almak istiyoruz mevcut paket yetersiz kaldı,kurumsal_hizmetler,paket_degisikligi,notr,orta
+101,evde internet yok modem resetleme işe yaramadı kablolar takılı,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+102,telefonum çalındı acil hattımı kapatın kredi kartı bilgilerim vardı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+103,tv altyazıları çalışmıyor nasıl açabilirim,tv_hizmetleri,teknik_destek,notr,dusuk
+104,şirketimize yeni internet hattı bağlatmak istiyoruz fiber altyapı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+105,internet faturamı nasıl sorgulayabilirim online işlem yapmak istiyorum,sabit_internet,fatura_odeme,notr,dusuk
+106,sim kartım bozuldu yenisini nasıl alabilirim telefon çekmiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+107,tv kumandası bozuk yenisini istiyorum tuşlar çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+108,firma adresimiz değişti hatlarımızı taşımak istiyoruz yeni adrese,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+109,internet bağlantımı evden ofise taşımak istiyorum aynı paket devam etsin,sabit_internet,bilgi_isteme,notr,dusuk
+110,telefonum suya düştü garanti kapsar mı ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+111,tv kalitesi çok iyi teşekkür ederiz görüntü net kanallar akıcı,tv_hizmetleri,teknik_destek,memnun,dusuk
+112,şirketimiz için daha uygun internet paketi istiyoruz mevcut paket çok pahalı,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+113,internet hızım düştü anlamadığım bir sebepten dolayı yardım edin,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+114,fatura ödemesini geciktirdim faiz gelir mi kaç gün süre var,kategori_belirtilmemis,fatura_odeme,notr,orta
+115,tv kutum çalışmıyor yardım edin teknik servis gerekiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+116,firmamıza tanımlı hatları listeleyebilir misiniz güncel durum nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+117,internet yavaşladı online derslerim var acil yardım istiyorum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+118,telefonumdan arama yapamıyorum sadece mesaj gönderebiliyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+119,tv kanalları donuyor sürekli görüntü kasıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+120,şirket çalışanlarımız için toplu hat almak istiyoruz fiyat teklifi alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+121,modem sürekli resetleniyor internet kesiliyor çözüm bulamadık,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+122,hat taşıma işlemi ne zaman tamamlanacak kaç gün sürer,mobil_hizmetler,bilgi_isteme,notr,orta
+123,tv kurulumu için gelecek teknisyen gecikti hala gelmedi,tv_hizmetleri,teknik_destek,memnun_degil,orta
+124,şirketimize kurumsal tv paketi almak istiyoruz toplantı odaları için,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+125,internet çok yavaş sürekli kesiliyor artık dayanamıyorum,sabit_internet,sikayet,memnun_degil,yuksek
+126,telefonumun şebeke çekmesi ile ilgili sorun yaşıyorum kapsama alanı dışı diyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+127,tv kanallarım gitmiş yardım edin hiçbir yayın gelmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+128,firma adımız değişti fatura bilgilerimizi güncelleyin lütfen,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+129,internet paketimi yükseltmek istiyorum daha hızlı bir pakete geçmek istiyorum,sabit_internet,paket_degisikligi,notr,orta
+130,telefonumun ekranı kırıldı değişim ücreti ne kadar bilgi alabilir miyim,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+131,tv de ses yok görüntü var yardım edin,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+132,şirketimizin internet faturası çok yüksek geldi kontrol edebilir misiniz,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+133,internet hızım neden düştü önceden daha iyiydi,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+134,telefonumu kaybettim hattımı kapattırabilir miyim acil yardım edin,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+135,tv kumandası bozuldu yenisini nasıl alabilirim,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+136,firmamız için yeni hatlar almak istiyoruz toplu hat başvurusu nasıl yapılır,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+137,modem ışıkları yanıyor ama internet yok bağlantı sorunu yaşıyoruz,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+138,sim kartımı kaybettim yenisini nasıl alabilirim aynı numara devam etsin,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+139,tv paketimi değiştirmek istiyorum daha ekonomik olanı tercih ederim,tv_hizmetleri,paket_degisikligi,notr,dusuk
+140,şirket hatlarımızı başka operatöre taşımak istiyoruz memnun kalmadık,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+141,evde internet yok acil iş görüşmem vardı iptal etmek zorunda kaldım,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+142,telefon hattımı iptal etmek istiyorum başka operatöre geçeceğim,mobil_hizmetler,iptal_iade,memnun_degil,orta
+143,tv yayını kesik gelip gidiyor sürekli donuyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+144,şirketimiz için en uygun internet paketi hangisi öneriniz nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+145,wifi şifresini unuttum ne yapmalıyım modeme nasıl erişebilirim,sabit_internet,teknik_destek,memnun_degil,orta
+146,faturamı ödedim ama sistem hala borç gösteriyor ne yapmalıyım,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+147,tv kanalları çekmiyor yardım edin görüntü yok,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+148,kurumsal faturamızda hata var düzeltir misiniz yanlış tutarlar var,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+149,internet modem ışıkları yanıp sönüyor bağlantı kurulamıyor,sabit_internet,teknik_destek,memnun_degil,yuksek
+150,telefonumdan mesaj gönderemiyorum sadece arama yapabiliyorum,mobil_hizmetler,teknik_destek,memnun_degil,orta
+151,tv kutum arızalandı servis ne zaman gelir evde bekleyeceğim,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+152,şirketimiz için toplu sms paketi almak istiyoruz müşterilerimize bilgilendirme için,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+153,internet bağlantı hızımı ölçmek istiyorum nasıl yapabilirim,sabit_internet,teknik_destek,notr,dusuk
+154,telefonum çalındı acil yardım edin hattımı kapattırın lütfen,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+155,tv kanalları karışmış sıralama bozulmuş nasıl düzeltebilirim,tv_hizmetleri,teknik_destek,memnun_degil,dusuk
+156,kurumsal hatlarımızı birleştirmek istiyoruz tek fatura olsun artık,kurumsal_hizmetler,fatura_odeme,notr,orta
+157,internet kesintisiz çalıştığı için teşekkürler çok memnunum,sabit_internet,teknik_destek,memnun,dusuk
+158,hat taşıma işlemimi iptal etmek istiyorum vazgeçtim,mobil_hizmetler,iptal_iade,memnun_degil,orta
+159,tv kumandası arızalandı yardım edin değiştirilmesi gerekiyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+160,şirket internet hızımızı artırabilir misiniz yetersiz kalıyor,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+161,evde internet yok iş yapamıyorum evden çalışıyorum acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+162,telefonuma gelen mesajları engelleme yapamıyorum sürekli reklam geliyor,mobil_hizmetler,teknik_destek,memnun_degil,dusuk
+163,tv kanallarından bazıları gitmiş gelmiyor yardım edin,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+164,kurumsal müşteri olarak daha iyi hizmet bekliyoruz sorunlarımız çözülmüyor,kurumsal_hizmetler,sikayet,memnun_degil,orta
+165,modem ışıkları yanmıyor hiç internet yok acil çözüm istiyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+166,telefon tarifemi değiştirmek istiyorum daha uygun bir pakete geçmek için,mobil_hizmetler,paket_degisikligi,notr,dusuk
+167,tv paketimde sorun var kanallar gitmiş yarısı gelmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+168,şirket adresimiz değişti internet bağlantısını taşıyabilir miyiz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+169,internet bağlantım yavaşladı sebebini öğrenebilir miyim,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+170,telefon faturamı nasıl ödeyebilirim online ödeme yapmak istiyorum,mobil_hizmetler,fatura_odeme,notr,dusuk
+171,tv kanallarında donma yaşıyorum yayın kalitesi düşük,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+172,şirketimiz için daha ekonomik bir paket istiyoruz maliyetleri düşürmek için,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+173,modem arızalı değişim yapılmasını istiyorum internete giremiyorum,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+174,sim kartım bozuldu telefonu görmüyor yenisiyle değiştirilmesi gerekiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+175,tv paketimi iptal etmek istiyorum nasıl yapabilirim kullanmıyorum artık,tv_hizmetleri,iptal_iade,memnun_degil,dusuk
+176,şirketimizin internet hızını yükseltmek istiyoruz işlerimiz aksıyor,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+177,internet bağlantım kopuyor sürekli online toplantılarda sorun yaşıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+178,telefon şebekesi çekmiyor evimin içinde sürekli kapsama alanı dışında,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+179,tv yayınlarında kesinti var yardım edin resim donuyor ses gitmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+180,firmamıza ait hatların dökümünü alabilir miyim kaç hat var göremiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+181,modem kurulumunu nasıl yapacağım anlatır mısınız yeni aldım,sabit_internet,teknik_destek,notr,orta
+182,telefon faturamda anlamadığım bir ücretlendirme var fazla gelmiş,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+183,tv kumandası bozuldu değiştirmeniz mümkün mü bazı tuşlar çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+184,şirketimizin internet paketi yetersiz kaldı daha yüksek hız istiyoruz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+185,internette yavaşlama var özellikle akşamları hiçbir şey açılmıyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+186,telefon hattımı yurt dışında kullanabilir miyim ücretlendirme nasıl olur,mobil_hizmetler,bilgi_isteme,notr,dusuk
+187,tv ses sorunu yaşıyorum ses gelmiyor görüntü var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+188,kurumsal hattımıza ek paket almak istiyoruz data yetersiz kaldı,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+189,internet bağlantım çok iyi teşekkürler hız testleri mükemmel çıkıyor,sabit_internet,teknik_destek,memnun,dusuk
+190,telefonumu değiştirdim sim kartımı nasıl aktarabilirim yeni cihaza,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+191,tv kutumu iade etmek istiyorum paketimi iptal edin kullanmıyorum,tv_hizmetleri,iptal_iade,memnun_degil,orta
+192,şirketimizin internet faturası çok yüksek detaylı açıklama istiyorum,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+193,evde internet yok acil çözüm bekliyorum önemli bir toplantım var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+194,kredi kartımla birlikte telefonum çalındı acil yardım hattı kapatılmalı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+195,tv kanalları neden donuyor sürekli izleyemiyorum dizileri,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+196,şirketimize tanımlı hatları öğrenmek istiyoruz liste alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+197,internet faturamı nasıl ödeyebilirim online ödeme yapmak istiyorum,sabit_internet,fatura_odeme,notr,dusuk
+198,telefonum hiç şebeke çekmiyor kapsama alanı dışında diyor sürekli,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+199,tv yayın kalitesinden çok memnunum görüntü çok net teşekkürler,tv_hizmetleri,teknik_destek,memnun,dusuk
+200,şirket hatlarımız için indirim mümkün mü uzun süreli müşteriniziz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+201,wifi şifremi unuttum nasıl öğrenebilirim internete giremiyorum,sabit_internet,teknik_destek,memnun_degil,orta
+202,hat taşıma işlemi yapmak istiyorum gerekli belgeler nelerdir,mobil_hizmetler,bilgi_isteme,notr,dusuk
+203,tv kutumu değiştirmek istiyorum arızalı çalışmıyor artık,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+204,şirketimize fiber internet bağlatabilir miyiz altyapı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+205,internet modemi nereye koyarsam daha iyi çalışır sinyal güçlü olur,sabit_internet,teknik_destek,notr,dusuk
+206,tarifemi yenilemek istiyorum nasıl yapabilirim daha uygun bir paket var mı,mobil_hizmetler,paket_degisikligi,notr,dusuk
+207,tv kurulumunda sorun yaşıyorum yardım edin bağlantı yapamıyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+208,şirketimizin internet hızını artırmak istiyoruz ne yapmamız gerekiyor,kurumsal_hizmetler,paket_degisikligi,notr,orta
+209,modem hiç çalışmıyor internet yok acil yardım toplantım var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+210,telefonum açılmıyor garanti kapsamında mı tamir ettirebilir miyim,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+211,tv kanallarında çözünürlük düşük görüntü kalitesi kötü,tv_hizmetleri,teknik_destek,memnun_degil,orta
+212,şirket hatlarımızı yenilemek istiyoruz daha uygun tarifeler var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+213,internet hızım neden çok düşük önceden daha iyiydi,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+214,telefonumun şarjı çok çabuk bitiyor garanti kapsamında değiştirebilir misiniz,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+215,tv de görüntü var ama ses yok ayarlarda sorun olabilir mi,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+216,firmamız için özel internet paketi istiyoruz indirimli fiyat alabilir miyiz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+217,modemimi resetlemek istiyorum nasıl yaparım internette sorun var,sabit_internet,teknik_destek,notr,orta
+218,telefon faturamda hata var fazla ücret yansımış düzeltilmesini istiyorum,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+219,tv uydu alıcısı bozuldu değiştirmeniz mümkün mü çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+220,şirketimize yeni hat almak istiyoruz en uygun tarife nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+221,internet çok yavaş acil bir şey yapın online eğitim alıyorum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+222,telefonumda internet paketi bitti yenisini nasıl alırım,mobil_hizmetler,paket_degisikligi,notr,dusuk
+223,tv yayını kesildi tekrar ne zaman gelecek bilgi verir misiniz,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+224,şirket faturamız yanlış kesilmiş düzeltmenizi istiyoruz,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+225,evde internet bağlantısı çok iyi teşekkürler çok memnun kaldım,sabit_internet,teknik_destek,memnun,dusuk
+226,telefonumdan arama yapamıyorum yardım edin acil bir durum var,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+227,tv kanallarında görüntü kalitesi düşük hd yayın almıyorum,tv_hizmetleri,teknik_destek,memnun_degil,orta
+228,kurumsal hattımızı iptal etmek istiyoruz sözleşmemiz sona erdi,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+229,internet modemim arızalandı yardım edin bozuldu,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+230,telefonum suya düştü garanti kapsamında değiştirebilir miyim,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+231,tv kutum açılmıyor ışık yanmıyor tamamen bozuldu,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+232,şirketimiz için uygun fiyatlı internet paketi arıyoruz öneriniz var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+233,modem ışıkları düzgün yanmıyor internet kesiliyor sürekli,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+234,hattımı yurt dışında kullanmak istiyorum ek paket gerekli mi,mobil_hizmetler,bilgi_isteme,notr,dusuk
+235,tv kanallarının sıralamasını nasıl değiştirebilirim favori kanallarım başa gelsin,tv_hizmetleri,teknik_destek,notr,dusuk
+236,şirketimize toplu hat almak istiyoruz fiyat alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+237,internet faturası çok yüksek geldi normal faturanın iki katı,sabit_internet,fatura_odeme,memnun_degil,orta
+238,telefonum hiç çalışmıyor acilen yardım edin açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+239,tv yayınında ses ve görüntü uyumsuz dublaj kayması var,tv_hizmetleri,teknik_destek,memnun_degil,orta
+240,kurumsal müşteriyiz internet bağlantımız çok yavaş acil destek istiyoruz,kurumsal_hizmetler,baglanti_sorunu,memnun_degil,yuksek
+241,interneti iptal etmek istiyorum taşınıyorum başka şehre,sabit_internet,iptal_iade,notr,orta
+242,telefon hattımı taşımak istiyorum başka operatöre geçeceğim,mobil_hizmetler,iptal_iade,memnun_degil,orta
+243,tv paketi için fazla para ödüyorum daha uygun bir paket yok mu,tv_hizmetleri,sikayet,memnun_degil,dusuk
+244,şirketimizin internet bağlantısı sürekli kesiliyor iş yapamıyoruz,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+245,internet bağlantım çalışmıyor modem ışıkları yanmıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+246,telefonum çalındı hattımı kapattırmalıyım acil yardım,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+247,tv kumandası çalışmıyor yardım edin tuşlara basınca tepki vermiyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+248,firma adresimiz değişti faturalarımızı yeni adrese gönderin lütfen,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+249,internetim çok yavaş hız testi yapmak istiyorum nasıl yapabilirim,sabit_internet,teknik_destek,memnun_degil,orta
+250,telefonum garanti kapsamında mı kontrol eder misiniz 1 yıl olmadı alalı,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+251,tv kutum arızalandı ne yapmalıyım teknik servis ne zaman gelir,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+252,şirketimize internet bağlatmak istiyoruz en uygun fiyat nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+253,modem çalışmıyor ışıkları yanıp sönüyor internet yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+254,telefonumu değiştirmek istiyorum kampanya var mı yeni model için,mobil_hizmetler,bilgi_isteme,notr,dusuk
+255,tv kanallarının sesi gelmiyor görüntü var ama ses yok,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+256,şirketimizin adı değişti faturaları yeni adımıza keser misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+257,internet bağlantı hızım çok düşük film bile izleyemiyorum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+258,telefonumun bataryası şişti ne yapmalıyım patlama riski var,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+259,tv kutumun uzaktan kumandası kayboldu yenisini nasıl alabilirim,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+260,şirket internet hızımızı artırabilir misiniz çalışanlar şikayet ediyor,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+261,modemim arızalandı internet kesiliyor hiç bağlantı yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+262,telefonum açılmıyor tamamen kapandı hiçbir tepki vermiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+263,tv kanallarını izlerken donma oluyor yayın akıcı değil,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+264,şirketimiz için fiber internet istiyoruz mevcut altyapıyı kullanabilir miyiz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+265,internet kopuyor sürekli çok sinir bozucu online toplantılar kesiliyor,sabit_internet,sikayet,memnun_degil,yuksek
+266,telefonuma spam mesajlar geliyor nasıl engellenir rahatsız oluyorum,mobil_hizmetler,teknik_destek,memnun_degil,dusuk
+267,tv kumandası bozuk değiştirebilir misiniz tuşları çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+268,kurumsal faturamızda hata var düzeltir misiniz fazla ödeme yapmışız,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+269,modem ışıkları sürekli yanıp sönüyor internet kesiliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+270,telefon hattımı dondurmak istiyorum uzun süre yurt dışında olacağım,mobil_hizmetler,bilgi_isteme,notr,dusuk
+271,tv paketimi yükseltmek istiyorum daha fazla kanal olsun,tv_hizmetleri,paket_degisikligi,notr,dusuk
+272,şirketimizin internet paketi yetersiz kaldı değiştirmek istiyoruz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+273,internette çok yavaşlama var video bile açamıyorum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+274,telefonumun ekranı kırıldı garanti kapsamında mı değiştirebilir misiniz,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+275,tv kanallarım gitti yardım edin yayın yok,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+276,şirketimiz için uygun internet paketi önerir misiniz karşılaştırma yapmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+277,internet faturamı ödemek istiyorum online nasıl yapabilirim,sabit_internet,fatura_odeme,notr,dusuk
+278,telefon hattımda sorun var arama yapamıyorum ama mesaj gönderebiliyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+279,tv kutum arızalandı servis gönderebilir misiniz tamamen bozuldu,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+280,şirketimizin fatura ödeme tarihini değiştirmek istiyoruz nasıl yapabiliriz,kurumsal_hizmetler,fatura_odeme,notr,dusuk
+281,modem sürekli kapanıyor kendiliğinden internet kesiliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+282,telefonum çalındı acil hattımı kapatmanız lazım bankacılık uygulamaları vardı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+283,tv yayını donuyor izleyemiyorum sürekli kasıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+284,kurumsal hat almak istiyoruz şirketimiz için toplu alım yapacağız,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+285,evde internet yok çalışamıyorum home office yapıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+286,telefon faturamı nasıl sorgulayabilirim online sistemden görmek istiyorum,mobil_hizmetler,fatura_odeme,notr,dusuk
+287,tv de bazı kanallar gelmiyor sinyal yok diyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+288,şirketimizin internet bağlantısında sorun var sürekli kesiliyor,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+289,internette geceleri yavaşlama oluyor normal mi bu durum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+290,telefonuma gelen aramalar düşüyor ulaşılamıyor diyorlar,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+291,tv kurulum şifremi unuttum nasıl öğrenebilirim,tv_hizmetleri,teknik_destek,memnun_degil,orta
+292,şirket çalışanlarımız için internet paketi almak istiyoruz toplu hat,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+293,internet bağlantım sürekli kesiliyor düzenli olarak kopuyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+294,telefonumun ekranı çatladı ne yapmalıyım değiştirebilir miyim,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+295,tv kanal listesi karıştı düzeltir misiniz sıralama bozulmuş,tv_hizmetleri,teknik_destek,memnun_degil,dusuk
+296,kurumsal müşteriyiz internet hızımız yetersiz artırılması gerekiyor,kurumsal_hizmetler,baglanti_sorunu,memnun_degil,yuksek
+297,internet bağlantım çok iyi teşekkür ederim hız harika,sabit_internet,teknik_destek,memnun,dusuk
+298,telefon hattımı taşımak istiyorum nasıl yaparım başka operatöre,mobil_hizmetler,bilgi_isteme,notr,dusuk
+299,tv paketi için nasıl başvuru yapabilirim yeni üyelik istiyorum,tv_hizmetleri,bilgi_isteme,notr,dusuk
+300,şirketimize kurumsal internet bağlatmak istiyoruz fiber altyapı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+301,modem kurulumunu nasıl yapabilirim detaylı anlatır mısınız,sabit_internet,teknik_destek,notr,orta
+302,telefon tarifemi değiştirmek istiyorum daha uygun bir paket arıyorum,mobil_hizmetler,paket_degisikligi,notr,dusuk
+303,tv yayınında ses sorunu var bazen kesiliyor bazen gelmiyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+304,şirket hattımızı nasıl iptal edebiliriz sözleşme bitiminde,kurumsal_hizmetler,iptal_iade,notr,orta
+305,evde internet kesiliyor sürekli online eğitim alıyorum sorun yaşıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+306,telefonumun ekranı kırıldı değiştirebilir misiniz ücret ne kadar olur,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+307,tv kutum çalışmıyor yardım edin yayın gelmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+308,şirketimiz için uygun fiyatlı internet arıyoruz önerileriniz neler,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+309,modem ışığı kırmızı yanıyor internet yok neden böyle oluyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+310,hat taşıma işlemi nasıl yapılır gerekli evraklar neler,mobil_hizmetler,bilgi_isteme,notr,dusuk
+311,tv kanallarım neden gitmiş hiçbiri gelmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+312,kurumsal hat için başvuru yapmak istiyoruz nasıl ilerlemeliyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+313,internet bağlantı hızım düştü son günlerde çok yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+314,telefonum suya düştü ne yapmalıyım açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+315,tv kumandası kayboldu yenisini nasıl alabilirim ücretli mi,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+316,firmamızın internet hızını artırabilir misiniz yetersiz kalıyor,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+317,internette yavaşlama var nedenini öğrenebilir miyim normal değil,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+318,telefon faturamı nasıl indirebilirim e-fatura olarak,mobil_hizmetler,fatura_odeme,notr,dusuk
+319,tv kutum arızalandı değiştirebilir misiniz garanti kapsamında mı,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+320,şirketimize özel bir kampanya var mı uzun süreli müşteriyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+321,modem sürekli resetleniyor internet kesiliyor iş yapamıyorum,sabit_internet,ariza_bildirimi,memnun_degil
+1,modemim bağlantı kurmuyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+2,faturamı nasıl öderim,kategori_belirtilmemis,fatura_odeme,notr,orta
+3,televizyon kanalları çekmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+4,yeni hat almak istiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+5,telefonum çalındı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+6,internet paketimi yükseltmek istiyorum,sabit_internet,paket_degisikligi,notr,orta
+7,tv paketimi iptal etmek istiyorum,tv_hizmetleri,iptal_iade,memnun_degil,orta
+8,modem arızalı internet yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+9,faturamda hatalı ücretlendirme var,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+10,fatura adresimizi değiştirmek istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+11,internet çok yavaş,sabit_internet,teknik_destek,memnun_degil,yuksek
+12,sim kartımı takamıyorum,mobil_hizmetler,cihaz_islemleri,notr,orta
+13,güncel kampanyalarınız neler,kategori_belirtilmemis,bilgi_isteme,notr,dusuk
+14,telefonumun ekranı kırıldı,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+15,tv kutusu çalışmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+16,internet bağlantısı çok iyi,sabit_internet,teknik_destek,memnun,dusuk
+17,ödeme geciktirme cezası var mı,kategori_belirtilmemis,fatura_odeme,notr,orta
+18,hatlarımızı birleştirmek istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+19,tv sürekli donuyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+20,cep telefonum çalındı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+21,internet hızım düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+22,ödeme yaptım sistemde görünmüyor,kategori_belirtilmemis,fatura_odeme,notr,orta
+23,müşteri temsilciniz çok ilgiliydi,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+24,modem nasıl kurulur,sabit_internet,teknik_destek,notr,orta
+25,kartımla ödeme yapamıyorum,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+26,internet paketi önerir misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+27,hattım kopyalandı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+28,internet sürekli kesiliyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+29,adresimi değiştirmek istiyorum,sabit_internet,bilgi_isteme,notr,dusuk
+30,tv kanalları yok,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+31,hizmetinizden memnunum,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+32,indirim yapabilir misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+33,modem bozuldu,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+34,arızayı giderdiğiniz için teşekkürler,mobil_hizmetler,cihaz_islemleri,memnun,dusuk
+35,yeni tv paketi almak istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+36,internet bağlantımızı taşıyacağız,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+37,telefonum suya düştü,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+38,internet hızı arttı teşekkürler,sabit_internet,paket_degisikligi,memnun,dusuk
+39,faturamı neden yüksek,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+40,internet tarifeleri nelerdir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+41,internet kesintisi ne zaman düzelecek,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+42,tarifemi değiştirmek istiyorum,mobil_hizmetler,paket_degisikligi,memnun_degil,orta
+43,tv bağlantısı yapamıyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+44,personel çok ilgiliydi,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+45,internet her gün kesiliyor,sabit_internet,sikayet,memnun_degil,yuksek
+46,telefonumun şarjı çabuk bitiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+47,tv kumandası çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+48,paket değişikliği yapmak istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+49,internet hızından memnunum,sabit_internet,teknik_destek,memnun,dusuk
+50,reklam mesajlarını nasıl engellerim,mobil_hizmetler,teknik_destek,notr,dusuk
+51,kanallar yok oldu,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+52,internet hızımız yetersiz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+53,modem sürekli resetleniyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+54,hattımı taşımak istiyorum,mobil_hizmetler,iptal_iade,memnun_degil,orta
+55,tv kutusunu nasıl iade ederim,tv_hizmetleri,iptal_iade,notr,dusuk
+56,toplu hat almak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+57,modem çalışmıyor acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+58,telefonum kayboldu,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+59,teknisyen ne zaman gelecek,tv_hizmetleri,teknik_destek,notr,orta
+60,indirim istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+61,internet paketi yavaşladı,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+62,internet paketim bitti,mobil_hizmetler,paket_degisikligi,memnun_degil,orta
+63,yayın kalitesi düşük,tv_hizmetleri,sikayet,memnun_degil,orta
+64,hizmetiniz kötü,kurumsal_hizmetler,sikayet,memnun_degil,orta
+65,internet bağlantımı iptal edeceğim,sabit_internet,iptal_iade,notr,orta
+66,hat taşıma işlemi uzun sürdü,mobil_hizmetler,bilgi_isteme,memnun_degil,orta
+67,tv paketimi yenilemek istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+68,özel kampanya var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+69,internet kesildi toplantım var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+70,yeni telefon almak istiyorum,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+71,kanallar donuyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+72,faturamız çok yüksek gelmiş,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+73,modemi kuramadım,sabit_internet,teknik_destek,notr,orta
+74,hattımı dondurmak istiyorum,mobil_hizmetler,bilgi_isteme,notr,dusuk
+75,tv yayını çok iyi,tv_hizmetleri,teknik_destek,memnun,dusuk
+76,fiber internet istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+77,modem ışıkları yanıp sönüyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+78,arama yapamıyorum,mobil_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+79,kumandamı kaybettim,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+80,hatlarımız açıldı teşekkürler,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+81,internet kesildi,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+82,telefonum açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+83,tv açılmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+84,internet hızını artırmak istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+85,wifi şifremi unuttum,sabit_internet,teknik_destek,memnun_degil,orta
+86,faturamı nasıl öderim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+87,tv paketimi yükseltmek istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+88,indirimli paket var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+89,internetimi taşımak istiyorum,sabit_internet,bilgi_isteme,notr,dusuk
+90,telefon ekranım kırıldı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+91,tv kanalları çalışmıyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+92,hat başvurusu yapmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+93,internet çok yavaş,sabit_internet,sikayet,memnun_degil,yuksek
+94,hattımı kapatmak istiyorum,mobil_hizmetler,iptal_iade,notr,orta
+95,tv paketimi iptal edeceğim,tv_hizmetleri,iptal_iade,notr,dusuk
+96,hat listesi istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+97,internet kesildi acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+98,telefonum şarj olmuyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+99,kanallar az,tv_hizmetleri,sikayet,memnun_degil,orta
+100,ek data paketi istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+101,modem resetleme işe yaramadı,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+102,telefonum çalındı acil,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+103,altyazıları açamıyorum,tv_hizmetleri,teknik_destek,notr,dusuk
+104,fiber altyapı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+105,faturamı sorgulayacağım,sabit_internet,fatura_odeme,notr,dusuk
+106,sim kartım bozuldu,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+107,kumanda bozuk,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+108,hatlarımızı taşıyacağız,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+109,internet taşıma istiyorum,sabit_internet,bilgi_isteme,notr,dusuk
+110,telefonum suya düştü,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+111,tv kalitesi çok iyi,tv_hizmetleri,teknik_destek,memnun,dusuk
+112,daha uygun paket istiyoruz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+113,internet hızım düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+114,ödemeyi geciktirdim,kategori_belirtilmemis,fatura_odeme,notr,orta
+115,tv kutusu çalışmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+116,hat listemizi görebilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+117,internet yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+118,arama yapamıyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+119,kanallar donuyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+120,toplu hat teklifi istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+121,modem resetleniyor sürekli,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+122,hat taşıma ne zaman olur,mobil_hizmetler,bilgi_isteme,notr,orta
+123,teknisyen gelmedi,tv_hizmetleri,teknik_destek,memnun_degil,orta
+124,tv paketi almak istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+125,internet kesiliyor sürekli,sabit_internet,sikayet,memnun_degil,yuksek
+126,şebeke çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+127,kanallarım gitti,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+128,fatura bilgilerimizi güncelleyin,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+129,daha hızlı paket istiyorum,sabit_internet,paket_degisikligi,notr,orta
+130,ekran değişimi ne kadar,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+131,tv sesi yok,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+132,faturamız yüksek geldi,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+133,internet hızım düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+134,telefonum kayboldu,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+135,yeni kumanda istiyorum,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+136,yeni hat istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+137,internet bağlantısı yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+138,sim kartım kayboldu,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+139,daha ucuz paket var mı,tv_hizmetleri,paket_degisikligi,notr,dusuk
+140,hattımızı taşıyacağız,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+141,internet kesildi acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+142,hattımı iptal edeceğim,mobil_hizmetler,iptal_iade,memnun_degil,orta
+143,tv yayını kesiliyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+144,en uygun paket hangisi,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+145,modem şifresini unuttum,sabit_internet,teknik_destek,memnun_degil,orta
+146,ödeme yaptım borç görünüyor,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+147,tv çekmiyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+148,faturamızda hata var,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+149,modem ışıkları yanıyor,sabit_internet,teknik_destek,memnun_degil,yuksek
+150,mesaj gönderemiyorum,mobil_hizmetler,teknik_destek,memnun_degil,orta
+151,tv kutusu arızalı,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+152,sms paketi istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+153,hız testi yapmak istiyorum,sabit_internet,teknik_destek,notr,dusuk
+154,telefonum çalındı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+155,kanal sıralaması bozulmuş,tv_hizmetleri,teknik_destek,memnun_degil,dusuk
+156,tek fatura istiyoruz,kurumsal_hizmetler,fatura_odeme,notr,orta
+157,internet çok iyi,sabit_internet,teknik_destek,memnun,dusuk
+158,hat taşımayı iptal edin,mobil_hizmetler,iptal_iade,memnun_degil,orta
+159,kumanda bozuldu,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+160,internet hızı yetersiz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+161,internet yok acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+162,mesaj engellemek istiyorum,mobil_hizmetler,teknik_destek,memnun_degil,dusuk
+163,kanallar gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+164,hizmetiniz kötüleşti,kurumsal_hizmetler,sikayet,memnun_degil,orta
+165,modem ışığı yanmıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+166,tarife değişikliği istiyorum,mobil_hizmetler,paket_degisikligi,notr,dusuk
+167,tv kanallarım gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+168,internet taşıma istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+169,internet yavaşladı,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+170,fatura ödemesi yapacağım,mobil_hizmetler,fatura_odeme,notr,dusuk
+171,tv kalitesi düşük,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+172,ekonomik paket istiyoruz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+173,modem arızalı,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+174,sim kart çalışmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+175,tv paketimi iptal edin,tv_hizmetleri,iptal_iade,memnun_degil,dusuk
+176,internet hızı yetersiz kaldı,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+177,internet bağlantım kopuyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+178,telefon çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+179,tv yayını kesiliyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+180,hat dökümü istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+181,modem kurulumu nasıl yapılır,sabit_internet,teknik_destek,notr,orta
+182,faturamda hatalı ücret var,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+183,kumanda tuşları çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+184,paket yetersiz kaldı,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+185,internet akşamları yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+186,yurtdışında hat kullanımı,mobil_hizmetler,bilgi_isteme,notr,dusuk
+187,tv sesi yok,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+188,data paketi yetersiz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+189,internet hızından memnunum,sabit_internet,teknik_destek,memnun,dusuk
+190,sim kartımı aktaracağım,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+191,tv kutusunu iade edeceğim,tv_hizmetleri,iptal_iade,memnun_degil,orta
+192,faturamız yüksek,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+193,internet yok toplantım var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+194,telefonum çalındı acil,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+195,kanallar donuyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+196,hat listesi istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+197,fatura ödeme yöntemi,sabit_internet,fatura_odeme,notr,dusuk
+198,telefon çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+199,tv görüntüsü çok net,tv_hizmetleri,teknik_destek,memnun,dusuk
+200,indirim yapılabilir mi,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+201,wifi şifremi unuttum,sabit_internet,teknik_destek,memnun_degil,dusuk
+202,hat taşıma istiyorum,mobil_hizmetler,bilgi_isteme,notr,dusuk
+203,tv kutusu değişimi istiyorum,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+204,fiber altyapı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+205,modem yerini değiştireceğim,sabit_internet,teknik_destek,notr,dusuk
+206,tarife değişikliği istiyorum,mobil_hizmetler,paket_degisikligi,notr,dusuk
+207,tv kurulumunda sorun var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+208,internet hızı nasıl artırılır,kurumsal_hizmetler,paket_degisikligi,notr,orta
+209,modem çalışmıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+210,telefonum açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+211,tv görüntü kalitesi kötü,tv_hizmetleri,teknik_destek,memnun_degil,orta
+212,uygun tarife var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+213,internet çok yavaşladı,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+214,şarj çabuk bitiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+215,tv ses yok görüntü var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+216,özel paket istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+217,modem resetleme nasıl yapılır,sabit_internet,teknik_destek,notr,orta
+218,faturamda hata var,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+219,uydu alıcısı bozuldu,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+220,yeni hat başvurusu yapacağız,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+221,internet çok yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+222,ek paket almak istiyorum,mobil_hizmetler,paket_degisikligi,notr,dusuk
+223,tv yayını kesildi,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+224,faturamız yanlış,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+225,internet çok iyi,sabit_internet,teknik_destek,memnun,dusuk
+226,arama yapamıyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+227,tv görüntü kalitesi kötü,tv_hizmetleri,teknik_destek,memnun_degil,orta
+228,hat iptali yapacağız,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+229,modem arızalı,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+230,telefon garanti kapsamında mı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+231,tv kutusu açılmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+232,internet paketi önerir misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+233,internet kesiliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+234,yurtdışı kullanım,mobil_hizmetler,bilgi_isteme,notr,dusuk
+235,kanal sıralaması nasıl değişir,tv_hizmetleri,teknik_destek,notr,dusuk
+236,toplu hat fiyatı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+237,fatura yüksek geldi,sabit_internet,fatura_odeme,memnun_degil,orta
+238,telefon çalışmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+239,tv ses ve görüntü uyumsuz,tv_hizmetleri,teknik_destek,memnun_degil,orta
+240,internet çok yavaş,kurumsal_hizmetler,baglanti_sorunu,memnun_degil,yuksek
+241,interneti iptal edeceğim,sabit_internet,iptal_iade,notr,orta
+242,hattımı taşıyacağım,mobil_hizmetler,iptal_iade,memnun_degil,orta
+243,tv paketi pahalı,tv_hizmetleri,sikayet,memnun_degil,dusuk
+244,internet kesiliyor sürekli,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+245,internet yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+246,telefonum çalındı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+247,kumanda çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+248,fatura adresi değişti,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+249,internet yavaş,sabit_internet,teknik_destek,memnun_degil,yuksek
+250,garanti kapsamında mı,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+1,modem sürekli bağlantı problemi yaşıyor internet gidip geliyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+2,fatura ödeme yöntemi nedir,kategori_belirtilmemis,fatura_odeme,notr,orta
+3,tv kanallarım çekmiyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+4,şirketimize yeni hatlar açtırmak istiyoruz fiyat alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+5,telefonum çalındı hattımı kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+6,paket değişikliği istiyorum,sabit_internet,paket_degisikligi,notr,orta
+7,tv aboneliğimi sonlandırmak istiyorum,tv_hizmetleri,iptal_iade,memnun_degil,orta
+8,internet kesildi acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+9,hatalı fatura,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+10,şirket adresimiz değişti bilgilerimizi güncelleyin,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+11,internet çok yavaş online derslerim var acil düzeltilmesi gerekiyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+12,sim kart sorunu,mobil_hizmetler,cihaz_islemleri,notr,orta
+13,güncel kampanyaları öğrenmek istiyorum,kategori_belirtilmemis,bilgi_isteme,notr,dusuk
+14,telefonum kırıldı,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+15,tv kutusu bozuldu hiçbir şekilde açılmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+16,internetimden çok memnunum,sabit_internet,teknik_destek,memnun,dusuk
+17,ödeme tarihi,kategori_belirtilmemis,fatura_odeme,notr,orta
+18,kurumsal hatları birleştirme,kurumsal_hizmetler,paket_degisikligi,notr,orta
+19,televizyon sürekli donuyor sinir bozucu izleyemiyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+20,cep telefonum çalındı acil kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+21,internet bağlantım kesildi,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+22,faturamı ödedim ama sistemde hala görünüyor,kategori_belirtilmemis,fatura_odeme,notr,orta
+23,hizmet kaliteniz çok iyi teşekkürler,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+24,modem kurulumunda sorun yaşıyorum yardım edin,sabit_internet,teknik_destek,notr,orta
+25,kredi kartı bilgilerimi güncellemem gerek,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+26,şirketimize uygun internet paketi arıyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+27,hattım kopyalandı acil yardım,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+28,internet sürekli kopuyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+29,adres değişikliği yapmak istiyorum,sabit_internet,bilgi_isteme,notr,dusuk
+30,tv yayını yok,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+31,teşekkürler,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+32,kurumsal indirim,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+33,modem arızalı değişim gerekiyor,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+34,sorunumu hemen çözdünüz çok memnunum,mobil_hizmetler,teknik_destek,memnun,dusuk
+35,yeni tv paketi istiyorum daha fazla kanal olsun,tv_hizmetleri,paket_degisikligi,notr,dusuk
+36,şirket adresimiz değişti internetimizi taşımak istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+37,telefonumu düşürdüm bozuldu ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+38,internet hızı arttı çok teşekkürler,sabit_internet,paket_degisikligi,memnun,dusuk
+39,faturamı sorgulama,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+40,internet tarifeniz nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+41,internetim kesildi ne zaman düzelir,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+42,yeni tarife,mobil_hizmetler,paket_degisikligi,memnun_degil,orta
+43,tv bağlantı problemi yaşıyorum teknik destek gerekiyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+44,personel ilgiliydi teşekkürler,kategori_belirtilmemis,bilgi_isteme,memnun,dusuk
+45,internet her gün aynı saatte kesiliyor,sabit_internet,sikayet,memnun_degil,yuksek
+46,şarj sorunu yaşıyorum,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+47,kumanda çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+48,kurumsal paket değişimi yapmak istiyoruz daha ekonomik olsun,kurumsal_hizmetler,paket_degisikligi,notr,orta
+49,internet hızı mükemmel,sabit_internet,teknik_destek,memnun,dusuk
+50,reklam mesajları engelleme,mobil_hizmetler,teknik_destek,notr,dusuk
+51,kanallar gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+52,internet hızımız yeterli değil çalışanlarımız şikayetçi,kurumsal_hizmetler,paket_degisikligi,memnun_degil,yuksek
+53,modem resetleniyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+54,hat taşıma,mobil_hizmetler,iptal_iade,memnun_degil,orta
+55,tv kutusunu nasıl iade edebilirim,tv_hizmetleri,iptal_iade,notr,dusuk
+56,şirketimiz için toplu hat almak istiyoruz fiyat teklifi alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+57,evde internet yok toplantım var acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+58,telefonum kayboldu,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+59,teknisyen bekliyorum,tv_hizmetleri,teknik_destek,notr,orta
+60,firma olarak indirim istiyoruz uzun süreli müşteriniziz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+61,paket yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+62,internet paketim tükendi,mobil_hizmetler,paket_degisikligi,memnun_degil,orta
+63,tv yayın kalitesinden memnun değilim görüntü sürekli donuyor,tv_hizmetleri,sikayet,memnun_degil,orta
+64,hizmet kalitesi düşük,kurumsal_hizmetler,sikayet,memnun_degil,orta
+65,internet iptal,sabit_internet,iptal_iade,notr,orta
+66,hat taşıma çok uzun sürdü hala sonuçlanmadı,mobil_hizmetler,bilgi_isteme,memnun_degil,orta
+67,tv paketi yenileme işlemi yapmak istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+68,kurumsal kampanya,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+69,internet kesildi acil toplantım var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+70,telefon alacağım,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+71,tv kanalları donma yapıyor sürekli kesiliyor izleyemiyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+72,fatura yüksek,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+73,modemi kuramadım yardım edin,sabit_internet,teknik_destek,notr,orta
+74,hat dondurma,mobil_hizmetler,bilgi_isteme,notr,dusuk
+75,tv yayın kalitesi çok iyi,tv_hizmetleri,teknik_destek,memnun,dusuk
+76,fiber internet bağlatmak istiyoruz altyapı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+77,modem ışıkları yanıp sönüyor internet bağlantısı yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+78,arama yapamıyorum çok önemli bir görüşmem vardı,mobil_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+79,kumanda kayboldu,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+80,kurumsal hatlarımız aktif oldu teşekkürler,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+81,internet kesildi,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+82,telefonum açılmıyor tamamen kapandı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+83,tv açılmıyor siyah ekran var,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+84,internet hızımızı artırmak istiyoruz nasıl yapabiliriz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+85,wifi şifresini unuttum nasıl öğrenebilirim,sabit_internet,teknik_destek,memnun_degil,orta
+86,faturamı nasıl ödeyebilirim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+87,tv paketimi yükseltmek istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+88,indirimli paket seçenekleriniz var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+89,internet adres değişikliği yapmak istiyorum taşınıyorum,sabit_internet,bilgi_isteme,notr,dusuk
+90,ekranı kırıldı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+91,tv kanallarının hiçbiri çalışmıyor yardım edin,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+92,yeni hat başvurusu yapmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+93,internet yavaşlığından şikayetçiyim sözleşmede yazandan daha düşük hız alıyorum,sabit_internet,sikayet,memnun_degil,yuksek
+94,hattımı kapatmak istiyorum,mobil_hizmetler,iptal_iade,notr,orta
+95,tv paketimi iptal edeceğim kullanmıyorum artık,tv_hizmetleri,iptal_iade,notr,dusuk
+96,hat listesi istiyoruz şirketimize kayıtlı tüm hatları görmek istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+97,internet bağlantısı yok acil çözüm bekliyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+98,telefonum şarj olmuyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+99,kanal sayısı az,tv_hizmetleri,sikayet,memnun_degil,orta
+100,ek data paketi istiyoruz şirket olarak ihtiyacımız var,kurumsal_hizmetler,paket_degisikligi,notr,orta
+101,modem reset işlemi yapmama rağmen internet yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+102,telefonum çalındı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+103,tv altyazıları açılmıyor nasıl ayarlanır,tv_hizmetleri,teknik_destek,notr,dusuk
+104,fiber internet altyapısı var mı adresimizde,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+105,fatura sorgulama yapmak istiyorum,sabit_internet,fatura_odeme,notr,dusuk
+106,sim kart arızalı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+107,tv kumandası bozuldu,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+108,internet hatlarımızı taşımak istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+109,internet taşıma işlemi yapmak istiyorum,sabit_internet,bilgi_isteme,notr,dusuk
+110,telefonum suya düştü çalışmıyor ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+111,tv yayın kalitesi çok iyi teşekkürler,tv_hizmetleri,teknik_destek,memnun,dusuk
+112,daha uygun fiyatlı bir internet paketi istiyoruz çok pahalı geliyor,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+113,internet hızım düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+114,ödemeyi geciktirdim,kategori_belirtilmemis,fatura_odeme,notr,orta
+115,tv kutum arızalı hiçbir şekilde açılmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+116,hat listemizi görmek istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+117,internet yok acil,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+118,telefondan arama yapamıyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+119,tv kanalları donuyor sürekli kesiliyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+120,şirketimiz için toplu hat almak istiyoruz teklif alabilir miyiz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+121,modem sürekli resetleniyor kendiliğinden kapanıp açılıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+122,hat taşıma işlemi ne kadar sürer,mobil_hizmetler,bilgi_isteme,notr,orta
+123,teknik servis gelmedi,tv_hizmetleri,teknik_destek,memnun_degil,orta
+124,kurumsal tv paketi istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+125,internetim çok yavaş,sabit_internet,sikayet,memnun_degil,yuksek
+126,telefon şebekesi çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+127,tv kanallarım yok oldu,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+128,fatura bilgilerimizi günceller misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+129,daha hızlı bir internet paketi istiyorum,sabit_internet,paket_degisikligi,notr,orta
+130,telefon ekran değişimi ne kadar,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+131,tv ses yok görüntü var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+132,faturamız neden yüksek geldi kontrol eder misiniz,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+133,internet hızı neden düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+134,telefonum kayboldu hattımı kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+135,tv kumandası istiyorum,tv_hizmetleri,cihaz_islemleri,notr,dusuk
+136,yeni hat açmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+137,internet yok modem ışığı yanmıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+138,sim kartım kayboldu,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+139,ekonomik tv paketi var mı,tv_hizmetleri,paket_degisikligi,notr,dusuk
+140,hattımızı taşıyoruz başka operatöre geçeceğiz,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+141,internetim kesildi iş görüşmem vardı iptal etmek zorunda kaldım,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+142,hattımı iptal etmek istiyorum nasıl yapabilirim,mobil_hizmetler,iptal_iade,memnun_degil,orta
+143,tv yayını kesiliyor sürekli donma yapıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+144,en uygun internet paketi hangisi,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+145,modem şifresi unuttum,sabit_internet,teknik_destek,memnun_degil,orta
+146,ödeme yaptım hala borç görünüyor,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+147,televizyon çalışmıyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+148,faturamızda hata var fazla tutar yansımış,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+149,internet modem ışıkları yanıp sönüyor,sabit_internet,teknik_destek,memnun_degil,yuksek
+150,mesaj gönderemiyorum,mobil_hizmetler,teknik_destek,memnun_degil,orta
+151,televizyonum bozuldu,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+152,toplu sms paketi almak istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+153,hız testi yapmak istiyorum,sabit_internet,teknik_destek,notr,dusuk
+154,telefonum çalındı acil,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+155,kanalların sırası değişmiş,tv_hizmetleri,teknik_destek,memnun_degil,dusuk
+156,tek fatura istiyoruz tüm hatlarımız için,kurumsal_hizmetler,fatura_odeme,notr,orta
+157,internet çok iyi teşekkürler,sabit_internet,teknik_destek,memnun,dusuk
+158,hat taşıma iptal,mobil_hizmetler,iptal_iade,memnun_degil,orta
+159,kumanda arızalı,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+160,internet hızı artırma,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+161,internet kesintisi var evden çalışıyorum acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+162,telefon mesaj engelleme,mobil_hizmetler,teknik_destek,memnun_degil,dusuk
+163,tv kanalları gitmiş yarısı yok olmuş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+164,hizmet kalitesi düştü,kurumsal_hizmetler,sikayet,memnun_degil,orta
+165,modem ışığı yanmıyor internet yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+166,tarife değişikliği,mobil_hizmetler,paket_degisikligi,notr,dusuk
+167,tv kanalları yok,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+168,internet taşınması,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+169,internet yavaşladı film bile açamıyorum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+170,fatura ödeme yapacağım,mobil_hizmetler,fatura_odeme,notr,dusuk
+171,tv görüntüsü kötü,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+172,daha ucuz paket istiyoruz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+173,modem arızalandı internet yok,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+174,sim kart tanımıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+175,tv paketi iptal,tv_hizmetleri,iptal_iade,memnun_degil,dusuk
+176,internet paketi yetersiz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+177,bağlantı kesiliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+178,telefon çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+179,tv yayını kesiliyor sürekli,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+180,hat dökümü istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+181,modem kurulumu nasıl yapılır detaylı anlatır mısınız,sabit_internet,teknik_destek,notr,orta
+182,faturamda hatalı ücretlendirme var,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+183,tv kumandası çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+184,paket yetersiz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+185,internet akşam saatlerinde çok yavaşlıyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+186,yurtdışında hat kullanımı,mobil_hizmetler,bilgi_isteme,notr,dusuk
+187,tv sesini duymuyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+188,data paketimizi artırmak istiyoruz,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+189,internet hızı iyi,sabit_internet,teknik_destek,memnun,dusuk
+190,sim kartımı yeni telefona taşıyacağım nasıl yapabilirim,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+191,tv kutusunu iade edeceğim nereye getirebilirim,tv_hizmetleri,iptal_iade,memnun_degil,orta
+192,yüksek fatura,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+193,internet kesintisi var çok önemli bir toplantım var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+194,telefonum çalındı içinde tüm banka hesaplarım var,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+195,tv kanalları izlerken donuyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+196,tüm hatlarımızın listesini istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+197,fatura ödeme,sabit_internet,fatura_odeme,notr,dusuk
+198,telefonum çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+199,tv görüntüsü mükemmel,tv_hizmetleri,teknik_destek,memnun,dusuk
+200,indirimli kampanya,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+201,wifi şifresi unuttum,sabit_internet,teknik_destek,memnun_degil,dusuk
+202,hat taşıma işlemi nasıl yapılır,mobil_hizmetler,bilgi_isteme,notr,dusuk
+203,tv kutusu değişmeli,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+204,fiber altyapısı var mı,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+205,modemi başka yere taşıyacağım,sabit_internet,teknik_destek,notr,dusuk
+206,tarife değişimi,mobil_hizmetler,paket_degisikligi,notr,dusuk
+207,tv kurulumu yapamıyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+208,internet hızını nasıl artırabilirim,kurumsal_hizmetler,paket_degisikligi,notr,orta
+209,modem bozuk,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+210,telefonum açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+211,tv kalitesi düşük,tv_hizmetleri,teknik_destek,memnun_degil,orta
+212,uygun tarife arıyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+213,internet bağlantısı çok yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+214,şarj sorunu,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+215,tv sesi yok,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+216,özel paket,kurumsal_hizmetler,paket_degisikligi,notr,orta
+217,modem reset,sabit_internet,teknik_destek,notr,orta
+218,fatura hatası,mobil_hizmetler,fatura_odeme,memnun_degil,orta
+219,uydu alıcısı bozuldu yeni bir tane gönderebilir misiniz,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+220,yeni hat istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+221,internet açılmıyor,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+222,paket almak istiyorum,mobil_hizmetler,paket_degisikligi,notr,dusuk
+223,tv kanallarım gitmiş yardım edin,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+224,fatura yanlış,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+225,internetimden memnunum,sabit_internet,teknik_destek,memnun,dusuk
+226,arama yapamıyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+227,tv görüntüsü bulanık,tv_hizmetleri,teknik_destek,memnun_degil,orta
+228,hat iptali yapacağız,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+229,modem çalışmıyor,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+230,telefonum garanti kapsamında mı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+231,tv açılmıyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+232,internet önerisi,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+233,internet bağlantım sürekli kesiliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+234,yurtdışında kullanım,mobil_hizmetler,bilgi_isteme,notr,dusuk
+235,kanal sıralaması değiştirme,tv_hizmetleri,teknik_destek,notr,dusuk
+236,toplu hat fiyatı öğrenmek istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+237,faturamız yüksek geldi geçen ayın iki katı,sabit_internet,fatura_odeme,memnun_degil,orta
+238,telefon bozuldu,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+239,tv sesle görüntü uyumsuz,tv_hizmetleri,teknik_destek,memnun_degil,orta
+240,kurumsal müşteriyiz internet yavaşlığından memnun değiliz,kurumsal_hizmetler,baglanti_sorunu,memnun_degil,yuksek
+241,internet iptal işlemi,sabit_internet,iptal_iade,notr,orta
+242,hattımı taşıyacağım nasıl yapabilirim,mobil_hizmetler,iptal_iade,memnun_degil,orta
+243,tv paketi çok pahalı,tv_hizmetleri,sikayet,memnun_degil,dusuk
+244,şirketimizin internet bağlantısında ciddi sorunlar var çalışamıyoruz,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+245,internet bağlantısı yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+246,telefonum çalındı yardım edin,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+247,kumanda tuşları basmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+248,fatura adresimiz değişti,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+249,internetim çok yavaş,sabit_internet,teknik_destek,memnun_degil,yuksek
+250,garanti süresi ne kadar,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+251,tv kanallarında donma sorunu yaşıyorum,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+252,tarife bilgisi almak istiyorum,mobil_hizmetler,paket_degisikligi,notr,dusuk
+253,internet kopuyor sürekli,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+254,şirket hatlarımızı kontrol eder misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+255,fatura indirimi yapılır mı,kategori_belirtilmemis,fatura_odeme,notr,orta
+256,telefonumun ekranı kırıldı ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+257,tv kurulumunda sorun yaşıyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+258,internet fiyatları çok yüksek daha uygun paket istiyorum,sabit_internet,paket_degisikligi,memnun_degil,orta
+259,kurumsal müşterinizim hatlarımızı taşımak istiyorum,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+260,hattım kopyalandı acil yardım edin,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+261,faturamı sorgulamak istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+262,tv kumandası çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+263,internet bağlantım yok acil,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+264,şirketimize yeni hat açtırmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+265,telefonum suya düştü ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+266,tv kanalları karışmış,tv_hizmetleri,teknik_destek,memnun_degil,dusuk
+267,internetim çok yavaşladı,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+268,firmamız için indirimli paket var mı,kurumsal_hizmetler,paket_degisikligi,notr,dusuk
+269,fatura ödeme seçenekleri neler,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+270,telefonumun şarjı çok çabuk bitiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+271,televizyon yayını kesiliyor sürekli,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+272,internet hızımız düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+273,kurumsal faturalarımızı birleştirmek istiyoruz,kurumsal_hizmetler,fatura_odeme,notr,orta
+274,telefon hattımı yurt dışında kullanabilir miyim,mobil_hizmetler,bilgi_isteme,notr,dusuk
+275,tv paketimi değiştirmek istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+276,modem arızalı internet bağlantım yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+277,şirketimiz için toplu hat almak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+278,faturamı nasıl indirebilirim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+279,telefonum açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+280,tv alıcısı bozuk,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+281,internet kesintileri yaşıyorum,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+282,kurumsal hizmetlerden memnunum teşekkürler,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+283,fatura tutarı yanlış,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+284,telefonum çalındı hattımı kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+285,tv paketimi iptal etmek istiyorum,tv_hizmetleri,iptal_iade,memnun_degil,orta
+286,internet bağlantı hızı çok düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+287,kurumsal hat tarifeleriniz nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+288,fatura adresimi değiştirmek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+289,sim kartım arızalandı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+290,televizyon kanallarım gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+291,internetten çok memnunum teşekkürler,sabit_internet,teknik_destek,memnun,dusuk
+292,şirketimiz için internet paketi önerir misiniz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+293,ödeme geciktirme cezası var mı,kategori_belirtilmemis,fatura_odeme,notr,orta
+294,telefonum kapsama alanı dışında diyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+295,tv ses ve görüntü aynı anda gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+296,internet modemim arızalandı,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+297,kurumsal müşteriyiz indirimleri öğrenmek istiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+298,faturamı kredi kartıyla ödemek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+299,telefon hattımı taşıma işlemi,mobil_hizmetler,iptal_iade,memnun_degil,orta
+300,tv kumanda tuşları çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+301,internet bağlantım sürekli kesiliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+302,kurumsal hat başvurusu yapmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+303,fatura ödeme tarihi ne zaman,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+304,telefonuma mesajlar gelmiyor,mobil_hizmetler,teknik_destek,memnun_degil,orta
+305,tv görüntü kalitesinden memnun değilim,tv_hizmetleri,teknik_destek,memnun_degil,orta
+306,internet kesildi eve servis istiyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+307,kurumsal hatlarımızı kontrol ettirir misiniz,kurumsal_hizmetler,teknik_destek,notr,orta
+308,faturalarım e-posta adresime gelsin istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+309,telefonum çalışmıyor açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+310,televizyon kanalları karlanma yapıyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+311,internet modemim sürekli kendini resetliyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+312,şirketimiz için uygun fiyatlı bir internet paketi arıyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+313,fatura detaylarını görmek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+314,sim kartım bozuk yenisiyle değiştirilmesini istiyorum,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+315,tv bağlantı sorunları yaşıyorum,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+316,internet paketimi yükseltmek istiyorum,sabit_internet,paket_degisikligi,notr,orta
+317,kurumsal aboneliğimizi yenilemek istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+318,faturamda hatalı bir ücretlendirme var,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+319,telefonum çalındı acil yardım,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+320,tv paketimi iptal etmek istiyorum,tv_hizmetleri,iptal_iade,memnun_degil,orta
+321,internet hızım neden düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+322,şirketimizin internet bağlantısı kesildi acil,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+323,fatura ödemesi yaptım makbuz istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+324,telefonumun şarjı çok hızlı bitiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+325,tv kanalları düzgün çalışmıyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+326,internette sürekli bağlantı kesintileri var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+327,kurumsal hattımızla ilgili bir sorun var,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,orta
+328,fatura tutarını sorguluyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+329,telefonum çekmiyor kapsama alanı sorunu,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+330,tv kurulumu yapmak istiyorum,tv_hizmetleri,teknik_destek,notr,orta
+331,internet hızım çok düşük,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+332,şirketimizin internet aboneliğini yenilemek istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+333,faturalarımı online ödemek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+334,cep telefonum suya düştü ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+335,tv yayın kalitesinden memnunum teşekkürler,tv_hizmetleri,teknik_destek,memnun,dusuk
+336,internet bağlantısı kopuyor sürekli,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+337,kurumsal hatlarımızın tarifesini değiştirmek istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+338,fatura ödeme tarihini ertelemek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,orta
+339,telefonum kayboldu hattımı kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+340,tv kumandası bozuldu yenisi gerekiyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+341,internetim açılmıyor acil yardım,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+342,şirketimiz için internet tarifeniz nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+343,faturamı sorgulayacağım,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+344,telefonum garanti kapsamında mı,mobil_hizmetler,cihaz_islemleri,notr,dusuk
+345,tv yayını kesiliyor sürekli,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+346,internet servis hızınız düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+347,kurumsal hat almak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+348,faturamı nasıl öderim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+349,telefon hattımda sorun var,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+350,tv altyazılar çıkmıyor,tv_hizmetleri,teknik_destek,memnun_degil,orta
+351,internet yavaşlığından memnun değilim,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+352,şirketimizin hat listesini görmek istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+353,fatura indirim talep ediyorum,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+354,telefonum bozuldu servise göndermem gerekli mi,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+355,tv paketimi yenilemek istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+356,internet kesiliyor sürekli,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+357,kurumsal hat taşıma istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+358,faturamda bir hata var,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+359,telefon hattımı dondurmak istiyorum,mobil_hizmetler,bilgi_isteme,notr,dusuk
+360,tv paketinde kanallarım gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+361,internet bağlantısı sağlayamıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+362,kurumsal faturamız çok yüksek gelmiş,kurumsal_hizmetler,fatura_odeme,memnun_degil,orta
+363,faturamı nereden görüntüleyebilirim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+364,telefonuma gelen aramaları alamıyorum,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+365,tv yayınında ses sorunu var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+366,internet modemim ısınıyor ve kapanıyor,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+367,kurumsal müşterinizim memnunum,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+368,fatura borcu ödeme,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+369,telefonumu kaybettim ne yapmalıyım,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+370,tv kutumu nasıl kurarım,tv_hizmetleri,teknik_destek,notr,orta
+371,internet kesildi acil yardım,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+372,şirketimizin internet paketi yetersiz kaldı,kurumsal_hizmetler,paket_degisikligi,memnun_degil,orta
+373,fatura ödeme son tarihi ne zaman,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+374,telefonumun ekranı çalışmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+375,tv görüntüsünde karlanma var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+376,internet kopuyor sürekli,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+377,şirketimiz için yeni hat almak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+378,fatura iade işlemi yapacağım,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+379,telefonuma yazılım güncellemesi gerekiyor,mobil_hizmetler,teknik_destek,notr,dusuk
+380,tv kanallarım kayboldu,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+381,internet çok yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+382,kurumsal hat için kampanya var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+383,fatura detayları göremiyorum,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+384,telefonum açılıp kapanıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+385,tv paketimden memnun değilim,tv_hizmetleri,sikayet,memnun_degil,orta
+386,internet hızım düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+387,şirketimize özel bir kampanya var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+388,fatura ödeme kanalları nedir,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+389,telefon hattımı iptal etmek istiyorum,mobil_hizmetler,iptal_iade,memnun_degil,orta
+390,tv kanal listesi karışmış,tv_hizmetleri,teknik_destek,memnun_degil,orta
+391,internet bağlantı sorunu yaşıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+392,kurumsal müşteriyiz internet hattımız kesildi,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+393,fatura ödeme noktaları nerede,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+394,telefonum suya düştü çalışmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+395,tv görüntüsünde donma var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+396,internet modemim arızalı,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+397,kurumsal paket değişikliği yapmak istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+398,fatura taksitlendirme yapmak istiyorum,kategori_belirtilmemis,fatura_odeme,notr,orta
+399,telefonum çalındı acilen hattımı kapatın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+400,tv kumanda tuşları çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+401,internet kesildi yardım edin,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+402,şirketimiz için internet tarifesi öğrenmek istiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+403,fatura kopyası almak istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+404,telefon hattımda sorun var aramalar gitmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+405,tv yayını kesiliyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+406,internet paketimi yükseltmek istiyorum,sabit_internet,paket_degisikligi,notr,orta
+407,kurumsal müşterilere özel kampanya var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+408,fatura ödemesi yapamıyorum online sistem çalışmıyor,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+409,telefonum internete bağlanmıyor,mobil_hizmetler,teknik_destek,memnun_degil,orta
+410,tv kanallarım gitmiş neden,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+411,internet hızımdan memnunum teşekkürler,sabit_internet,teknik_destek,memnun,dusuk
+412,şirketimizin internet aboneliği ne durumda,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+413,fatura bilgilerimi güncellemek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+414,telefonumun ekranı çatladı,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+415,tv kanal ayarları bozuldu,tv_hizmetleri,teknik_destek,memnun_degil,orta
+416,internet kesiliyor bağlantı sorunu yaşıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+417,kurumsal hattımızla ilgili bilgi almak istiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+418,fatura tutarını sorguluyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+419,telefonum bozuldu ne yapmalıyım,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+420,tv görüntüsünden memnun değilim,tv_hizmetleri,sikayet,memnun_degil,orta
+421,internet modemi arızalandı,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+422,şirketimizin internet paketini yükseltmek istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+423,faturamı sorgulama,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+424,telefonum şebeke çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+425,tv yayınından memnunum,tv_hizmetleri,teknik_destek,memnun,dusuk
+426,internet olmadan yaşayamam her gün kesiliyor,sabit_internet,sikayet,memnun_degil,yuksek
+427,kurumsal müşteriyiz sorunumuz çözüldü teşekkürler,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+428,faturamı kredi kartıyla ödemek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+429,telefonum kapanmıyor sürekli açık kalıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+430,tv ses sorunları yaşıyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+431,internet servis kalitesinden memnunum,sabit_internet,teknik_destek,memnun,dusuk
+432,şirketimizin internet hızı yetersiz,kurumsal_hizmetler,baglanti_sorunu,memnun_degil,yuksek
+433,faturamı nasıl öderim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+434,telefon görüşmelerim kesiliyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+435,tv kurulumu nasıl yapılır,tv_hizmetleri,teknik_destek,notr,orta
+436,internet bağlantı sorunu,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+437,kurumsal paketimizi güncellemek istiyoruz,kurumsal_hizmetler,paket_degisikligi,notr,orta
+438,fatura borcumu sorgulama,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+439,telefonum çalındı acil kapattırın,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+440,tv yayını sürekli kesiliyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+441,internet modemim yandı,sabit_internet,cihaz_islemleri,memnun_degil,yuksek
+442,kurumsal hatlarımızı taşımak istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+443,geçmiş faturalarımı görmek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+444,telefonum şarj olmuyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+445,tv kanalları karışmış,tv_hizmetleri,teknik_destek,memnun_degil,orta
+446,internet hızım düştü,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+447,kurumsal müşterinizim memnun değilim,kurumsal_hizmetler,sikayet,memnun_degil,orta
+448,faturamda bir yanlışlık var,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+449,telefonuma mesaj gelmiyor,mobil_hizmetler,teknik_destek,memnun_degil,orta
+450,tv görüntüsü bozuk,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+451,internet kesiliyor sürekli,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+452,şirketimizin internet bağlantısı kopuyor,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+453,fatura tarihi değiştirmek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+454,telefonum çalışmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+455,tv kutusu arızalı,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+456,internet bağlantısından memnunum teşekkürler,sabit_internet,teknik_destek,memnun,dusuk
+457,kurumsal paket fiyatları nedir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+458,faturamı indirebilir miyim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+459,telefonum suya düştü,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+460,tv yayını kesildi,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+461,internet bağlantı sorunları yaşıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+462,şirketimiz için indirimli paket var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+463,fatura kopya almak istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+464,telefon hattım taşınacak,mobil_hizmetler,iptal_iade,memnun_degil,orta
+465,tv kanalları donuyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+466,internet modemim çalışmıyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+467,kurumsal aboneliğimi iptal etmek istiyorum,kurumsal_hizmetler,iptal_iade,memnun_degil,orta
+468,fatura borcu sorgulama,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+469,telefonumun şarjı çok çabuk bitiyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,dusuk
+470,tv görüntüsünde problem var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+471,internet yavaşlığından şikayetçiyim,sabit_internet,sikayet,memnun_degil,yuksek
+472,kurumsal hat taşıma işlemi yapmak istiyoruz,kurumsal_hizmetler,baglanti_sorunu,notr,orta
+473,fatura detaylarını göster,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+474,telefonum çalındı acil,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+475,tv kanalları karışık,tv_hizmetleri,teknik_destek,memnun_degil,orta
+476,internet bağlantısı kesildi,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+477,şirketimiz için internet tarifeleri nelerdir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+478,faturalarım çok yüksek geliyor,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+479,telefonum donuyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+480,tv yayını donuyor,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+481,internet kesintileri yaşıyorum,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+482,kurumsal müşteriyiz internetimiz kesildi,kurumsal_hizmetler,ariza_bildirimi,memnun_degil,yuksek
+483,fatura ödeme tarihi,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+484,telefonum internete bağlanmıyor,mobil_hizmetler,teknik_destek,memnun_degil,orta
+485,tv kumandası bozuldu,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+486,internet yavaşladı,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+487,kurumsal hat almak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+488,faturamı nasıl öderim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+489,telefonum kapanmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+490,tv yayın kalitesi çok düşük,tv_hizmetleri,sikayet,memnun_degil,orta
+491,internet bağlantısından memnunum,sabit_internet,teknik_destek,memnun,dusuk
+492,kurumsal müşterinizim sorunumu hemen çözdünüz,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+493,fatura sorgulama yapmak istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+494,telefonum çalındı,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+495,tv kanalları gitmiş,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+496,internet bağlantısı yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+497,kurumsal hat listesi istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+498,fatura ödeme noktaları nerede,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+499,telefonum çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+500,tv görüntüsü karıncalı,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+501,internet çok yavaş,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+502,kurumsal paket detayları neler,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+503,fatura yüksek geldi,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+504,telefonum bozuldu,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+505,tv paketimi değiştirmek istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+506,internet bağlantı sorunları var,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+507,şirketimizin internet aboneliği,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+508,fatura detayları istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+509,telefonum şebeke çekmiyor,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+510,tv yayını kesiliyor,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+511,internet çok iyi,sabit_internet,teknik_destek,memnun,dusuk
+512,kurumsal müşteriyiz memnunuz,kurumsal_hizmetler,bilgi_isteme,memnun,dusuk
+513,faturamı nasıl görüntülerim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+514,telefonum suya düştü,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+515,tv alıcısı bozuldu,tv_hizmetleri,cihaz_islemleri,memnun_degil,orta
+516,internet hızımı sorgulamak istiyorum,sabit_internet,teknik_destek,notr,dusuk
+517,şirketimize özel kampanya var mı,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+518,fatura ödeme noktaları,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+519,telefon hattımda sorun var,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+520,tv görüntüsü bozuk,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+521,internet servisinden memnunum,sabit_internet,teknik_destek,memnun,dusuk
+522,kurumsal hattımızla ilgili bilgi almak istiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+523,fatura tutarını öğrenmek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+524,telefonum açılmıyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+525,tv kurulumunda sorun yaşıyorum,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+526,internet kesildi,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+527,kurumsal müşteri temsilcisiyle görüşmek istiyorum,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+528,faturamı nasıl öderim,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+529,telefonum çalındı acil,mobil_hizmetler,cihaz_kayip_calinti,memnun_degil,cok_yuksek
+530,tv kanalları kayıp,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+531,internet yok,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+532,şirketimiz için internet paket önerileri nelerdir,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+533,fatura bilgilerimi güncellemek istiyorum,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+534,telefon hattımı taşıyacağım,mobil_hizmetler,iptal_iade,memnun_degil,orta
+535,tv görüntüsünde sorun var,tv_hizmetleri,teknik_destek,memnun_degil,yuksek
+536,internet bağlantım kopuyor,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+537,kurumsal müşteriyiz sorun yaşıyoruz,kurumsal_hizmetler,sikayet,memnun_degil,orta
+538,faturalarım e-posta adresime gelsin,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+539,telefonum bozuk,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+540,tv kumandası çalışmıyor,tv_hizmetleri,cihaz_islemleri,memnun_degil,dusuk
+541,internet bağlantım yavaşladı,sabit_internet,baglanti_sorunu,memnun_degil,yuksek
+542,kurumsal paket değişikliği,kurumsal_hizmetler,paket_degisikligi,notr,orta
+543,faturamda hata var,kategori_belirtilmemis,fatura_odeme,memnun_degil,orta
+544,telefonum şarj olmuyor,mobil_hizmetler,cihaz_islemleri,memnun_degil,orta
+545,tv paket değişikliği yapmak istiyorum,tv_hizmetleri,paket_degisikligi,notr,dusuk
+546,internet kesildi acil yardım,sabit_internet,ariza_bildirimi,memnun_degil,yuksek
+547,kurumsal hat başvurusu yapmak istiyoruz,kurumsal_hizmetler,bilgi_isteme,notr,dusuk
+548,fatura ödeme seçenekleri,kategori_belirtilmemis,fatura_odeme,notr,dusuk
+549,telefonum çekmiyor kapsama sorunu var,mobil_hizmetler,teknik_destek,memnun_degil,yuksek
+550,tv kutusu arızalandı,tv_hizmetleri,ariza_bildirimi,memnun_degil,yuksek
+
+
+
