@@ -1,6 +1,9 @@
+
 # KTU AI-F1 Chatbot Projesi
 
 KTU AI-F1, Türkcell müşteri hizmetleri simülasyonu yapan gelişmiş bir AI chatbot uygulamasıdır. Bu proje, doğal dil işleme teknolojileri kullanarak kullanıcılarla etkileşime geçen, paket değişiklikleri yapabilen ve sesli yanıt verebilen modern bir müşteri hizmetleri platformu sunar.
+
+![Demo](demo.gif)
 
 # Özellikler
 
@@ -126,6 +129,8 @@ npm run dev
 cd server
 .\.venv310\Scripts\activate  # Windows
 uvicorn app:app --reload --host 127.0.0.1 --port 8000
+#çalışmassa
+uvicorn app:app --reload --host 127.0.0.1 --port 8001
 ```
 
 ## Production Mode
