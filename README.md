@@ -3,7 +3,7 @@
 
 KTU AI-F1, Türkcell müşteri hizmetleri simülasyonu yapan gelişmiş bir AI chatbot uygulamasıdır. Bu proje, doğal dil işleme teknolojileri kullanarak kullanıcılarla etkileşime geçen, paket değişiklikleri yapabilen ve sesli yanıt verebilen modern bir müşteri hizmetleri platformu sunar.
 
-![Demo](demo.gif)
+![Demo](media/demo.gif)
 
 # Özellikler
 
