@@ -4,8 +4,7 @@
 *.log
 *.ctxt
 .mtj.tmp/
-*.pth
-*.pt
+
 *.jar
 *.war
 *.nar
