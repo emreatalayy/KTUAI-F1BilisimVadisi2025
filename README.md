@@ -290,5 +290,5 @@ Proje ile ilgili sorularınız için GitHub Issues kullanabilirsiniz.
 
 # Teşekkürler
 
-Bu proje, modern AI teknolojilerini kullanarak müşteri hizmetleri deneyimini geliştirmeyi amaçlamaktadır. Değerli mentörlerimiz Hakan Kendirci, Merve Ayyüce Kızrak, Oğuzhan Yenen ve Gökhan Üstünkar ve bilişim vadisi ekibi başta olmak üzere katkıda bulunan herkese teşekkürler.
+Bu proje, modern AI teknolojilerini kullanarak müşteri hizmetleri deneyimini geliştirmeyi amaçlamaktadır. Değerli mentörlerimiz Hakan Kendirci, Merve Ayyüce Kızrak, Oğuzhan Yenen ve Gürkan Üstünkar ve bilişim vadisi ekibi başta olmak üzere katkıda bulunan herkese teşekkürler.
 
