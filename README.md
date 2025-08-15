@@ -98,6 +98,7 @@ source .venv310/bin/activate
 
 # Bağımlılıkları yükle
 pip install -r requirements.txt
+pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu121
 ```
 
 ## Çevre Değişkenleri
@@ -251,6 +252,27 @@ Bu proje açık kaynak olarak geliştirilmiştir. Detaylar için LICENSE dosyas�
 # bert_train_predict_data Klasörü Hakkında
 
 `bert_train_predict_data` klasörü, BERT tabanlı modelin eğitimi, veri hazırlığı ve tahmin (predict) işlemlerine dair script ve dosyaları içerir. Buradaki içerikler, modelin geliştirilmesi ve test edilmesi amacıyla kullanılmıştır. Projenin ana çalışma akışı ve chatbot uygulamasının çalıştırılması için bu klasöre ihtiyaç yoktur. Sadece model geliştirme ve analiz süreçleriyle ilgilenenler için ek bilgi sağlar.
+
+
+# Veri Seti Hakkında
+
+Bu projede kullanılan veri seti, müşteri hizmetleri senaryolarına uygun olarak hazırlanmış, çoklu etiketli ve Türkçe metinlerden oluşmaktadır. Veri setinde her bir örnek için kategori, duygu türü, konu ve öncelik gibi etiketler bulunmaktadır. Bu etiketler, BERT tabanlı modelin çoklu görevli (multi-task) olarak eğitilmesini sağlamıştır. Veri seti, gerçek müşteri taleplerini ve çeşitli senaryoları kapsayacak şekilde özenle oluşturulmuştur.
+
+Veri seti örnekleri ve etiket yapısı aşağıdaki görsellerde özetlenmiştir:
+
+<p align="center">
+	<img src="media/1 (1).jpeg" width="350" />
+	<img src="media/1 (2).jpeg" width="350" />
+	<img src="media/1 (3).jpeg" width="350" />
+</p>
+
+# BERT Modeli ve Analiz
+
+BERT tabanlı modelin eğitimi ve analiziyle ilgili süreçler aşağıda özetlenmiştir:
+
+<p align="center">
+	<img src="media/1 (4).jpeg" width="500" />
+</p>
 
 # İletişim
 
